@@ -7,7 +7,10 @@ import TablesNavPage from './pages/TablesNavPage';
 import AddonsNavPage from './pages/AddonsNavPage';
 import ModalsNavPage from './pages/ModalsNavPage';
 import AdvancedNavPage from './pages/AdvancedNavPage';
-import ComponentsNavPage from './pages/ComponentsNavPage';
+import ComponentsNavPage from './pages/ComponentsNavPage'; 
+
+import HomepageSharda from './sharda/index';
+import LearnSharda from './sharda/LearnSharda';
 
 // FREE
 import AnimationPage from './pages/AnimationPage';
@@ -129,6 +132,9 @@ class Routes extends React.Component {
         <Route path='/tables/table-styles' component={TableStylesPage} />
         <Route path='/tables/datatable-api' component={DatatableApiPage} />
         <Route path='/tables/datatable' component={DatatablePage} />
+
+        <Route path='/sharda/homepage' component={HomepageSharda} />
+        <Route path='/sharda/learn' component={LearnSharda} />
 
         
         <Route

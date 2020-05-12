@@ -12,7 +12,7 @@ import {
   MDBIcon
 } from 'mdbreact';
 import { BrowserRouter as Router } from 'react-router-dom';
-import { ReactComponent as Logo } from './assets/logo.svg';
+import { ReactComponent as Logo } from './assets/shardalogo.svg';
 import Routes from './Routes';
 
 class App extends Component {
@@ -48,7 +48,7 @@ class App extends Component {
           <MDBNavbar color='indigo' dark expand='md' fixed='top' scrolling>
             <MDBNavbarBrand href='/' className='py-0 font-weight-bold'>
               <Logo style={{ height: '2.5rem', width: '2.5rem' }} />
-              <strong className='align-middle'>MDB React</strong>
+              <strong className='align-middle'>Shardapeetham</strong>
             </MDBNavbarBrand>
             <MDBNavbarToggler
               onClick={this.toggleCollapse('mainNavbarCollapse')}
@@ -197,8 +197,8 @@ class App extends Component {
           </main>
           <MDBFooter color='indigo'>
             <p className='footer-copyright mb-0 py-3 text-center'>
-              &copy; {new Date().getFullYear()} Copyright:
-              <a href='https://www.MDBootstrap.com'> MDBootstrap.com </a>
+              &copy; {new Date().getFullYear()}
+              <a href='https://karankraina.github.io/'> Shardapeetham </a>
             </p>
           </MDBFooter>
         </div>
