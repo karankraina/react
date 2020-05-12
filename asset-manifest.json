@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-page/static/css/main.53c573e9.chunk.css",
-    "main.js": "/react-page/static/js/main.3d39ec2a.chunk.js",
-    "main.js.map": "/react-page/static/js/main.3d39ec2a.chunk.js.map",
-    "runtime-main.js": "/react-page/static/js/runtime-main.af61a1fe.js",
-    "runtime-main.js.map": "/react-page/static/js/runtime-main.af61a1fe.js.map",
-    "static/css/2.bb5535b3.chunk.css": "/react-page/static/css/2.bb5535b3.chunk.css",
-    "static/js/2.791f2d1a.chunk.js": "/react-page/static/js/2.791f2d1a.chunk.js",
-    "static/js/2.791f2d1a.chunk.js.map": "/react-page/static/js/2.791f2d1a.chunk.js.map",
-    "index.html": "/react-page/index.html",
-    "precache-manifest.5eaf788e29b03a17360b4ac453ec1b73.js": "/react-page/precache-manifest.5eaf788e29b03a17360b4ac453ec1b73.js",
-    "service-worker.js": "/react-page/service-worker.js",
-    "static/css/2.bb5535b3.chunk.css.map": "/react-page/static/css/2.bb5535b3.chunk.css.map",
-    "static/css/main.53c573e9.chunk.css.map": "/react-page/static/css/main.53c573e9.chunk.css.map",
-    "static/media/mdb.css": "/react-page/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/react-page/static/media/fa-solid-900.ec763292.svg",
-    "static/media/shardalogo.e5a2e014.svg": "/react-page/static/media/shardalogo.e5a2e014.svg"
+    "main.css": "/react/static/css/main.53c573e9.chunk.css",
+    "main.js": "/react/static/js/main.d9aeb9af.chunk.js",
+    "main.js.map": "/react/static/js/main.d9aeb9af.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.8189c9be.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.8189c9be.js.map",
+    "static/css/2.6579e2a0.chunk.css": "/react/static/css/2.6579e2a0.chunk.css",
+    "static/js/2.25506901.chunk.js": "/react/static/js/2.25506901.chunk.js",
+    "static/js/2.25506901.chunk.js.map": "/react/static/js/2.25506901.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.2462fc6d25bb8849fedb9778d4c22be3.js": "/react/precache-manifest.2462fc6d25bb8849fedb9778d4c22be3.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/2.6579e2a0.chunk.css.map": "/react/static/css/2.6579e2a0.chunk.css.map",
+    "static/css/main.53c573e9.chunk.css.map": "/react/static/css/main.53c573e9.chunk.css.map",
+    "static/media/mdb.css": "/react/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/react/static/media/fa-solid-900.ec763292.svg",
+    "static/media/shardalogo.e5a2e014.svg": "/react/static/media/shardalogo.e5a2e014.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af61a1fe.js",
-    "static/css/2.bb5535b3.chunk.css",
-    "static/js/2.791f2d1a.chunk.js",
+    "static/js/runtime-main.8189c9be.js",
+    "static/css/2.6579e2a0.chunk.css",
+    "static/js/2.25506901.chunk.js",
     "static/css/main.53c573e9.chunk.css",
-    "static/js/main.3d39ec2a.chunk.js"
+    "static/js/main.d9aeb9af.chunk.js"
   ]
 }
