@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c72a9acbf7223314c360a4d96b26d346",
+    "revision": "fb12e8959d3abc365046b5bad60ad518",
     "url": "/react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react/static/css/2.6579e2a0.chunk.css"
   },
   {
-    "revision": "a70ff7bf15a687344b19",
+    "revision": "d4e409ac7bfd03f821c0",
     "url": "/react/static/css/main.53c573e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react/static/js/2.25506901.chunk.js"
   },
   {
-    "revision": "a70ff7bf15a687344b19",
-    "url": "/react/static/js/main.d9aeb9af.chunk.js"
+    "revision": "d4e409ac7bfd03f821c0",
+    "url": "/react/static/js/main.01e504e2.chunk.js"
   },
   {
     "revision": "a8215c2766af8340ccfc",
@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react/static/media/fa-solid-900.ec763292.svg"
   },
   {
-    "revision": "e5a2e01494e6d3ca2c1cff4cd2979fab",
-    "url": "/react/static/media/shardalogo.e5a2e014.svg"
+    "revision": "8f87ffc587bfa084710a29ab3dd4dfb3",
+    "url": "/react/static/media/shardalogo.8f87ffc5.svg"
   }
 ]);
