@@ -71,70 +71,70 @@ class Routes extends React.Component {
   render() {
     return (
       <Switch>
-        <Route exact path='/react/' component={HomePage} />
-        <Route exact path='/react/addons' component={AddonsNavPage} />
-        <Route exact path='/react/advanced' component={AdvancedNavPage} />
-        <Route exact path='/react/components' component={ComponentsNavPage} />
-        <Route exact path='/react/css' component={CSSNavPage} />
-        <Route exact path='/react/forms' component={FormsNavPage} />
-        <Route exact path='/react/modals' component={ModalsNavPage} />
-        <Route exact path='/react/navigation' component={NavigationNavPage} />
-        <Route exact path='/react/tables' component={TablesNavPage} />
+        <Route exact path='/react' component={HomepageSharda} />
+        <Route exact path='/addons' component={AddonsNavPage} />
+        <Route exact path='/advanced' component={AdvancedNavPage} />
+        <Route exact path='/components' component={ComponentsNavPage} />
+        <Route exact path='/css' component={CSSNavPage} />
+        <Route exact path='/forms' component={FormsNavPage} />
+        <Route exact path='/modals' component={ModalsNavPage} />
+        <Route exact path='/navigation' component={NavigationNavPage} />
+        <Route exact path='/tables' component={TablesNavPage} />
 
         {/* FREE */}
-        <Route path='/react/addons/iframe' component={IframePage} />
-        <Route path='/react/addons/edge-header' component={EdgeHeaderPage} />
-        <Route path='/react/addons/notifications' component={NotificationPage} />
-        <Route path='/react/addons/treeview' component={TreeviewPage} />
-        <Route path='/react/addons/Rating' component={RatingPage} />
-        <Route path='/react/advanced/carousel' component={CarouselPage} />
-        <Route path='/react/advanced/collapse' component={CollapsePage} />
-        <Route path='/react/advanced/videocarousel' component={VideoCarouselPage} />
-        <Route path='/react/advanced/videocarousel' component={VideoCarouselPage} />
-        <Route path='/react/advanced/alerts' component={AlertPage} />
-        <Route path='/react/advanced/popover' component={PopoverPage} />
-        <Route path='/react/advanced/tooltips' component={TooltipsPage} />
-        <Route path='/react/advanced/charts' component={ChartsPage} />
-        <Route path='/react/advanced/scrollbar' component={ScrollBarPage} />
-        <Route path='/react/css/animations' component={AnimationPage} />
-        <Route path='/react/css/icons' component={FaPage} />
-        <Route path='/react/css/jumbotron' component={JumbotronPage} />
-        <Route path='/react/css/masks' component={MasksPage} />
-        <Route path='/react/css/hover' component={HoverPage} />
-        <Route path='/react/css/masonry' component={MasonryPage} />
-        <Route path='/react/components/media' component={MediaPage} />
-        <Route path='/react/components/badge' component={BadgePage} />
-        <Route path='/react/components/cards' component={CardsPage} />
-        <Route path='/react/components/buttons' component={ButtonPage} />
-        <Route path='/react/components/dropdown' component={DropdownPage} />
-        <Route path='/react/components/progress' component={ProgressPage} />
-        <Route path='/react/components/pagination' component={PaginationPage} />
-        <Route path='/react/components/list-group' component={ListGroupPage} />
-        <Route path='/react/components/panels' component={PanelPage} />
-        <Route path='/react/components/search' component={SearchPage} />
-        <Route path='/react/components/spinner' component={SpinnerPage} />
-        <Route path='/react/components/tabs' component={TabsPage} />
-        <Route path='/react/components/pills' component={PillsPage} />
-        <Route path='/react/forms/forms' component={FormsPage} />
-        <Route path='/react/forms/validation' component={ValidationPage} />
-        <Route path='/react/forms/input' component={InputPage} />
-        <Route path='/react/forms/inputgroup' component={InputGroupPage} />
-        <Route path='/react/modals/modal' component={ModalPage} />
-        <Route path='/react/modals/modal-form' component={ModalFormPage} />
-        <Route path='/react/modals/modal-examples' component={ModalExamplesPage} />
-        <Route path='/react/navigation/navbar' component={NavbarPage} />
-        <Route path='/react/navigation/breadcrumb' component={BreadcrumbPage} />
-        <Route path='/react/navigation/navs' component={NavsPage} />
-        <Route path='/react/navigation/footer' component={FooterPage} />
-        <Route path='/react/tables/table' component={TablePage} />
-        <Route path='/react/tables/table-responsive' component={TableResponsivePage} />
-        <Route path='/react/tables/table-scroll' component={TableScrollPage} />
-        <Route path='/react/tables/table-styles' component={TableStylesPage} />
-        <Route path='/react/tables/datatable-api' component={DatatableApiPage} />
-        <Route path='/react/tables/datatable' component={DatatablePage} />
+        <Route path='/addons/iframe' component={IframePage} />
+        <Route path='/addons/edge-header' component={EdgeHeaderPage} />
+        <Route path='/addons/notifications' component={NotificationPage} />
+        <Route path='/addons/treeview' component={TreeviewPage} />
+        <Route path='/addons/Rating' component={RatingPage} />
+        <Route path='/advanced/carousel' component={CarouselPage} />
+        <Route path='/advanced/collapse' component={CollapsePage} />
+        <Route path='/advanced/videocarousel' component={VideoCarouselPage} />
+        <Route path='/advanced/videocarousel' component={VideoCarouselPage} />
+        <Route path='/advanced/alerts' component={AlertPage} />
+        <Route path='/advanced/popover' component={PopoverPage} />
+        <Route path='/advanced/tooltips' component={TooltipsPage} />
+        <Route path='/advanced/charts' component={ChartsPage} />
+        <Route path='/advanced/scrollbar' component={ScrollBarPage} />
+        <Route path='/css/animations' component={AnimationPage} />
+        <Route path='/css/icons' component={FaPage} />
+        <Route path='/css/jumbotron' component={JumbotronPage} />
+        <Route path='/css/masks' component={MasksPage} />
+        <Route path='/css/hover' component={HoverPage} />
+        <Route path='/css/masonry' component={MasonryPage} />
+        <Route path='/components/media' component={MediaPage} />
+        <Route path='/components/badge' component={BadgePage} />
+        <Route path='/components/cards' component={CardsPage} />
+        <Route path='/components/buttons' component={ButtonPage} />
+        <Route path='/components/dropdown' component={DropdownPage} />
+        <Route path='/components/progress' component={ProgressPage} />
+        <Route path='/components/pagination' component={PaginationPage} />
+        <Route path='/components/list-group' component={ListGroupPage} />
+        <Route path='/components/panels' component={PanelPage} />
+        <Route path='/components/search' component={SearchPage} />
+        <Route path='/components/spinner' component={SpinnerPage} />
+        <Route path='/components/tabs' component={TabsPage} />
+        <Route path='/components/pills' component={PillsPage} />
+        <Route path='/forms/forms' component={FormsPage} />
+        <Route path='/forms/validation' component={ValidationPage} />
+        <Route path='/forms/input' component={InputPage} />
+        <Route path='/forms/inputgroup' component={InputGroupPage} />
+        <Route path='/modals/modal' component={ModalPage} />
+        <Route path='/modals/modal-form' component={ModalFormPage} />
+        <Route path='/modals/modal-examples' component={ModalExamplesPage} />
+        <Route path='/navigation/navbar' component={NavbarPage} />
+        <Route path='/navigation/breadcrumb' component={BreadcrumbPage} />
+        <Route path='/navigation/navs' component={NavsPage} />
+        <Route path='/navigation/footer' component={FooterPage} />
+        <Route path='/tables/table' component={TablePage} />
+        <Route path='/tables/table-responsive' component={TableResponsivePage} />
+        <Route path='/tables/table-scroll' component={TableScrollPage} />
+        <Route path='/tables/table-styles' component={TableStylesPage} />
+        <Route path='/tables/datatable-api' component={DatatableApiPage} />
+        <Route path='/tables/datatable' component={DatatablePage} />
 
-        <Route path='/react/sharda/homepage' component={HomepageSharda} />
-        <Route path='/react/sharda/learn' component={LearnSharda} />
+        <Route path='/sharda/homepage' component={HomepageSharda} />
+        <Route path='/sharda/learn' component={LearnSharda} />
 
         
         <Route
